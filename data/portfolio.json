@@ -1,0 +1,599 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "PEHCHAN",
+      "category": "GRADUATION PROJECT ",
+      "description": "Festive Wear S/S 26",
+      "tags": [
+        "Hand-embroidered",
+        "Silk",
+        "Contemporary"
+      ],
+      "coverImage": "/photos/pehchan_hero_3.png",
+      "imageCollections": [
+        {
+          "cover": "/photos/hero_img_1.webp",
+          "images": [
+            "/photos/hero_img_1.webp",
+            "/photos/veera (1).jpeg",
+            "/photos/veera (2).jpeg",
+            "/photos/veera (3).jpeg",
+            "/photos/veera (4).jpeg",
+            "/photos/veera (5).jpeg",
+            "/photos/veera (6).jpeg",
+            "/photos/veera (7).jpeg",
+            "/photos/veera (8).jpeg",
+            "/photos/veera (9).jpeg",
+            "/photos/veera (10).jpeg",
+            "/photos/veera (11).jpeg",
+            "/photos/veera (12).jpeg",
+            "/photos/veera (13).jpeg"
+          ],
+          "name": "Veera"
+        },
+        {
+          "cover": "/photos/hero_img_2.webp",
+          "images": [
+            "/photos/hero_img_2.webp",
+            "/photos/pratibimb (2).jpeg",
+            "/photos/pratibimb (3).jpeg",
+            "/photos/pratibimb (1).jpeg",
+            "/photos/pratibimb (4).jpeg",
+            "/photos/pratibimb (5).jpeg",
+            "/photos/pratibimb (6).jpeg",
+            "/photos/pratibimb (7).jpeg",
+            "/photos/pratibimb (8).jpeg",
+            "/photos/pratibimb (9).jpeg",
+            "/photos/pratibimb (10).jpeg",
+            "/photos/pratibimb (11).jpeg",
+            "/photos/pratibimb (12).jpeg",
+            "/photos/pratibimb (13).jpeg",
+            "/photos/pratibimb (14).jpeg"
+          ],
+          "name": "Pratibimb"
+        },
+        {
+          "cover": "/photos/hero_img_3.webp",
+          "images": [
+            "/photos/hero_img_3.webp",
+            "/photos/nyka (1).jpeg",
+            "/photos/nyka (2).jpeg",
+            "/photos/nyka (3).jpeg",
+            "/photos/nyka (4).jpeg",
+            "/photos/nyka (5).jpeg",
+            "/photos/nyka (6).jpeg",
+            "/photos/nyka (7).jpeg",
+            "/photos/nyka (8).jpeg",
+            "/photos/nyka (9).jpeg",
+            "/photos/nyka (10).jpeg",
+            "/photos/nyka (11).jpeg"
+          ],
+          "name": "⁠NAAYIKA SINDOOR"
+        },
+        {
+          "cover": "/photos/hero_img_4.webp",
+          "images": [
+            "/photos/hero_img_4.webp",
+            "/photos/swa (1).jpeg",
+            "/photos/swa (2).jpeg",
+            "/photos/swa (3).jpeg",
+            "/photos/swa (4).jpeg",
+            "/photos/swa (5).jpeg",
+            "/photos/swa (6).jpeg",
+            "/photos/swa (7).jpeg",
+            "/photos/swa (8).jpeg",
+            "/photos/swa (9).jpeg",
+            "/photos/swa (10).jpeg",
+            "/photos/swa (11).jpeg",
+            "/photos/swa (12).jpeg",
+            "/photos/swa (13).jpeg"
+          ],
+          "name": "SWATANTRATA"
+        },
+        {
+          "cover": "/photos/hero_img_5.webp",
+          "images": [
+            "/photos/hero_img_5.webp",
+            "/photos/ruh (1).jpeg",
+            "/photos/ruh (2).jpeg",
+            "/photos/ruh (3).jpeg",
+            "/photos/ruh (4).jpeg",
+            "/photos/ruh (5).jpeg",
+            "/photos/ruh (6).jpeg",
+            "/photos/ruh (7).jpeg",
+            "/photos/ruh (8).jpeg",
+            "/photos/ruh (9).jpeg",
+            "/photos/ruh (10).jpeg",
+            "/photos/ruh (11).jpeg",
+            "/photos/ruh (12).jpeg",
+            "/photos/ruh (13).jpeg",
+            "/photos/ruh (14).jpeg",
+            "/photos/ruh (15).jpeg"
+          ],
+          "name": "RUHAANI"
+        },
+        {
+          "cover": "/photos/hero_img_6.webp",
+          "images": [
+            "/photos/hero_img_6.webp",
+            "/photos/cha (1).jpeg",
+            "/photos/cha (2).jpeg",
+            "/photos/cha (3).jpeg",
+            "/photos/cha (4).jpeg",
+            "/photos/cha (5).jpeg",
+            "/photos/cha (6).jpeg",
+            "/photos/cha (7).jpeg",
+            "/photos/cha (8).jpeg",
+            "/photos/cha (9).jpeg",
+            "/photos/cha (10).jpeg",
+            "/photos/cha (11).jpeg",
+            "/photos/cha (12).jpeg"
+          ],
+          "name": "NAAYIKA CHANDAN"
+        },
+        {
+          "cover": "/photos/hero_img_7.jpeg",
+          "images": [
+            "/photos/hero_img_7.jpeg",
+            "/photos/tri (1).jpeg",
+            "/photos/tri (2).jpeg",
+            "/photos/tri (3).jpeg",
+            "/photos/tri (4).jpeg",
+            "/photos/tri (5).jpeg",
+            "/photos/tri (6).jpeg",
+            "/photos/tri (7).jpeg",
+            "/photos/tri (8).jpeg",
+            "/photos/tri (9).jpeg",
+            "/photos/tri (10).jpeg",
+            "/photos/tri (11).jpeg",
+            "/photos/tri (12).jpeg",
+            "/photos/tri (13).jpeg",
+            "/photos/tri (14).jpeg",
+            "/photos/tri (15).jpeg"
+          ],
+          "name": "⁠TRIVENI"
+        },
+        {
+          "cover": "/photos/hero_img_8.jpeg",
+          "images": [
+            "/photos/hero_img_8.jpeg",
+            "/photos/sau (1).jpeg",
+            "/photos/sau (2).jpeg",
+            "/photos/sau (3).jpeg",
+            "/photos/sau (4).jpeg",
+            "/photos/sau (5).jpeg",
+            "/photos/sau (6).jpeg",
+            "/photos/sau (7).jpeg",
+            "/photos/sau (8).jpeg",
+            "/photos/sau (9).jpeg",
+            "/photos/sau (10).jpeg",
+            "/photos/sau (11).jpeg",
+            "/photos/sau (12).jpeg",
+            "/photos/sau (13).jpeg",
+            "/photos/sau (14).jpeg"
+          ],
+          "name": "SAUMYA"
+        },
+        {
+          "cover": "/photos/hero_img_9.jpeg",
+          "images": [
+            "/photos/hero_img_9.jpeg",
+            "/photos/nis (1).jpeg",
+            "/photos/nis (2).jpeg",
+            "/photos/nis (3).jpeg",
+            "/photos/nis (4).jpeg",
+            "/photos/nis (5).jpeg",
+            "/photos/nis (6).jpeg",
+            "/photos/nis (7).jpeg",
+            "/photos/nis (8).jpeg",
+            "/photos/nis (9).jpeg",
+            "/photos/nis (10).jpeg",
+            "/photos/nis (11).jpeg",
+            "/photos/nis (12).jpeg"
+          ],
+          "name": "NISHTHA"
+        }
+      ],
+      "moodBoard": {
+        "text": "This collection is an exploration of Functional Love, the kind of affection that isn’t found in grand gestures, but in the gritty, daily resilience of the modern woman. Inspired by the character of Piku, this collection serves as a sartorial tribute to the woman who is the silent anchor of her home; the woman who balances the precision of an architect with the messy, unpredictable demands of a woman.\n\nIn a world that demands women to be soft, this collection celebrates the strength in being “sharp.” It honors the irritability that comes from exhaustion and the beauty found in a life lived for others without losing one's own intellectual identity",
+        "images": [
+            "/photos/pehchan_moodboard (1).jpeg",
+            "/photos/pehchan_moodboard (2).jpeg",
+            "/photos/pehchan_moodboard (3).jpeg",
+            "/photos/pehchan_moodboard (4).jpeg",
+            "/photos/pehchan_moodboard (5).jpeg",
+            "/photos/pehchan_moodboard (6).jpeg"
+        ]
+      },
+      "inspiration": "Inspired by the character of Piku"
+    },
+    {
+      "id": 2,
+      "title": "UMA",
+      "category": "SUMMER INTERNSHIP",
+      "description": "Festive wear S/S 25 Capsule Collection ",
+      "tags": [
+        "Sustainable",
+        "Unisex",
+        "Urban"
+      ],
+      "coverImage": "/photos/hero_image_6.jpeg",
+      "imageCollections": [
+        {
+          "name": "Raktim",
+          "cover": "/photos/raktim_img_2.png",
+          "images": [
+            "/photos/raktim_img_2.png",
+            "/photos/rud (1).jpeg",
+            "/photos/rud (2).jpeg",
+            "/photos/rud (3).jpeg",
+            "/photos/rud (4).jpeg",
+            "/photos/rud (5).jpeg",
+            "/photos/rud (6).jpeg",
+            "/photos/rud (7).jpeg",
+            "/photos/rud (8).jpeg",
+            "/photos/rud (9).jpeg"
+          ]
+        },
+        {
+          "name": "Shiuli",
+          "cover": "/photos/shiuli_img_2.png",
+          "images": [
+            "/photos/shiuli_img_2.png",
+            "/photos/siu (2).jpeg",
+            "/photos/siu (3).jpeg",
+            "/photos/siu (1).jpeg",
+            "/photos/siu (4).jpeg",
+            "/photos/siu (5).jpeg",
+            "/photos/siu (6).jpeg",
+            "/photos/siu (7).jpeg",
+            "/photos/siu (8).jpeg",
+            "/photos/siu (9).jpeg",
+            "/photos/siu (10).jpeg",
+            "/photos/siu (11).jpeg",
+            "/photos/siu (12).jpeg",
+            "/photos/siu (13).jpeg",
+            "/photos/siu (14).jpeg",
+            "/photos/siu (15).jpeg",
+            "/photos/siu (16).jpeg",
+            "/photos/siu (17).jpeg",
+            "/photos/siu (18).jpeg",
+            "/photos/siu (19).jpeg",
+            "/photos/siu (20).jpeg",
+            "/photos/siu (21).jpeg",
+            "/photos/siu (22).jpeg"
+          ]
+        },
+        {
+          "name": "Rudra",
+          "cover": "/photos/rudra_img_1.png",
+          "images": [
+            "/photos/rudra_img_1.png",
+            "/photos/rak (2).jpeg",
+            "/photos/rak (3).jpeg",
+            "/photos/rak (1).jpeg",
+            "/photos/rak (4).jpeg",
+            "/photos/rak (5).jpeg",
+            "/photos/rak (6).jpeg",
+            "/photos/rak (7).jpeg",
+            "/photos/rak (8).jpeg",
+            "/photos/rak (9).jpeg",
+            "/photos/rak (10).jpeg",
+            "/photos/rak (11).jpeg",
+            "/photos/rak (12).jpeg",
+            "/photos/rak (13).jpeg",
+            "/photos/rak (14).jpeg",
+            "/photos/rak (15).jpeg",
+            "/photos/rak (16).jpeg",
+            "/photos/rak (17).jpeg",
+            "/photos/rak (18).jpeg"
+          ]
+        }
+      ],
+      "moodBoard": {
+        "text": "UMA draws inspiration from the grandeur of Durga Puja in Kolkata, capturing the essence of celebration, tradition, and feminine strength. Inspired by the iconic Laal-Paar shada saree, a symbol of purity and power, the designs reinterpret this cultural classic with modern silhouettes and contemporary aesthetics. The vision is to blend the timeless charm of red and white with innovative cuts, drapes, and detailing, making it relevant for today’s generation while honouring its deep-rooted heritage. Each piece embodies the spirit of the festive—graceful, powerful, and celebratory—offering men and women an ensemble that bridges the gap between ritual and runway.",
+        "images": []
+      },
+      "inspiration": "Inspired by the iconic Laal Paar- Shada Saree. "
+    },
+    {
+      "id": 3,
+      "title": "CHANDRABINDU",
+      "category": "CRAFT BASED PRODUCT DEVELOPMENT",
+      "description": "Handcrafted Formal wear that complement contemporary fashion. ",
+      "tags": [
+        "Handmade",
+        "Leather",
+        "Minimalist"
+      ],
+      "coverImage": "/photos/crd.PNG",
+      "imageCollections": [
+        {
+          "name": "CHANDRABINDU",
+          "cover": "/photos/crd.PNG",
+          "images": [
+            "/photos/crd (2).jpeg",
+            "/photos/crd (3).jpeg",
+            "/photos/crd (1).jpeg",
+            "/photos/crd (4).jpeg",
+            "/photos/crd (5).jpeg",
+            "/photos/crd (6).jpeg",
+            "/photos/crd (7).jpeg",
+            "/photos/crd (8).jpeg",
+            "/photos/crd (9).jpeg",
+            "/photos/crd (10).jpeg",
+            "/photos/crd (11).jpeg",
+            "/photos/crd (12).jpeg",
+            "/photos/crd (13).jpeg",
+            "/photos/crd (14).jpeg",
+            "/photos/crd (15).jpeg",
+            "/photos/crd (16).jpeg",
+            "/photos/crd (17).jpeg",
+            "/photos/crd (18).jpeg",
+            "/photos/crd (19).jpeg",
+            "/photos/crd (20).jpeg",
+            "/photos/crd (21).jpeg",
+            "/photos/crd (22).jpeg",
+            "/photos/crd (23).jpeg",
+            "/photos/crd (24).jpeg",
+            "/photos/crd (25).jpeg",
+            "/photos/crd (26).jpeg",
+            "/photos/crd (27).jpeg",
+            "/photos/crd (28).jpeg",
+            "/photos/crd (29).jpeg",
+            "/photos/crd (30).jpeg",
+            "/photos/crd (31).jpeg",
+            "/photos/crd (32).jpeg",
+            "/photos/crd (33).jpeg",
+            "/photos/crd (34).jpeg",
+            "/photos/crd (35).jpeg",
+            "/photos/crd (36).jpeg"
+          ]
+        }
+      ],
+      "moodBoard": {
+        "text": "‘Chandrabindu - The Woven Moon’ takes inspiration from Kumar Purnima, where the full moon is worshipped as a symbol of purity and fortune. Reimagined in the Dhalapathar Parda, the moon becomes a bold central motif, with crescents, waves, and star-like butis woven through the extra-weft. A palette of deep indigo with ivory and silver mirrors moonlight on a night sky, turning the parda into a poetic “sky-window” that unites festival, cosmos, and craft.",
+        "images": []
+      },
+      "inspiration": "Inspired by traditional leatherwork and modern minimalism."
+    },
+    {
+      "id": 4,
+      "title": "EKA SUTRA",
+      "category": "HERITAGE TEXTILE",
+      "description": "One Thread. Two Traditions. A Love Left Behind.",
+      "tags": [
+        "Indian Apparel S/S 26",
+        "Handloom",
+        "Minimal",
+        "Handcrafted"
+      ],
+      "moodBoard": {
+        "text": "These pieces are woven memoir — a love letter spun in the dialects of Odisha’s Ikkat and Bengal’s Jamdani. As a Bengali woman whose heart once beat with Odisha’s rhythm, my story of unfinished love takes form in every thread, in every motif. This is not just about fabric — it’s about what lingers: memories that dye deep, patterns that never repeat, and weaves that hold what words could not. In every piece, you will find a reunion — of two textiles, two cultures, and a heart that never left.",
+        "images": [
+          "/photos/eka.png",
+          "/photos/eka (2).jpeg",
+          "/photos/eka (3).jpeg",
+          "/photos/eka (4).jpeg",
+          "/photos/eka (5).jpeg",
+          "/photos/eka (6).jpeg",
+          "/photos/eka (7).jpeg",
+          "/photos/eka (8).jpeg",
+          "/photos/eka (9).jpeg",
+          "/photos/eka (10).jpeg",
+          "/photos/eka (11).jpeg",
+          "/photos/eka (12).jpeg",
+          "/photos/eka (13).jpeg",
+          "/photos/eka (14).jpeg",
+          "/photos/eka (15).jpeg",
+          "/photos/eka (16).jpeg",
+          "/photos/eka (17).jpeg",
+          "/photos/eka (18).jpeg",
+          "/photos/eka (19).jpeg",
+          "/photos/eka (20).jpeg",
+          "/photos/eka (21).jpeg",
+          "/photos/eka (22).jpeg",
+          "/photos/eka (23).jpeg",
+          "/photos/eka (24).jpeg",
+          "/photos/eka (25).jpeg",
+          "/photos/eka (26).jpeg"
+        ]
+      },
+      "inspiration": "Tribute to traditional textiles/handlooms, Ikkat and Jamdani."
+    },
+    {
+      "id": 5,
+      "title": "MISTLETOE MAGIC",
+      "category": "VALUE ADDITION - TIE DYE",
+      "description": "Your Holiday Haven.",
+      "tags": [
+        "Lifestyle Collection A/W 25",
+        "Tie-Dye",
+        "Christmas",
+        "Winters "
+      ],
+      "moodBoard": {
+        "text": "The Mistletoe Magic Collection is a celebration of the magical charm of winter and the festive spirit of Christmas. Drawing inspiration from frosty landscapes, cozy traditions, and the radiant glow of holiday cheer, this collection merges seasonal nostalgia with contemporary elegance. It aims to evoke feelings of wonder and comfort, blending luxurious textures, rich colours, and playful yet sophisticated designs that resonate with the festive season.",
+        "images": [
+          "/photos/mis.jpg",
+          "/photos/mis (1).jpeg",
+          "/photos/mis (2).jpeg",
+          "/photos/mis (3).jpeg",
+          "/photos/mis (4).jpeg",
+          "/photos/mis (5).jpeg",
+          "/photos/mis (6).jpeg",
+          "/photos/mis (7).jpeg",
+          "/photos/mis (8).jpeg",
+          "/photos/mis (9).jpeg",
+          "/photos/mis (10).jpeg"
+        ]
+      },
+      "inspiration": "Through enchantment of s snowy Christmas wonderland, I’ll highlight the contrast between winter’s frosty exterior and the warm, joyful heart of the holiday season."
+    },
+    {
+      "id": 6,
+      "title": "CHAAI",
+  "category": "NATURAL DYES",
+  "description": "Ready-To-Wear S/S 24",
+  "tags": [
+    "Natural Dye",
+    "Resort wear",
+    "Minimal embroidery"
+  ],
+      "moodBoard": {
+        "text": "The concept of the collection Chaai is to incorporate the elements of Chaai into building an outfit predominantly worn during breezy resort stays. Be it the warm vapor that rises from a kulhad of Chaai or just the intricate patterns made on that kulhad or maybe the bubbles formed upon a hot cup of chaai. All of these are like an inspiration for me to derive a design collection that would not only have the essence of chai but also the flavourful elements present in the making of Chaai. All together, I hope to make this vision of mine come alive and convey the emotion we feel by taking the first sip of chaai.",
+        "images": [
+          "/photos/chai.png",
+          "/photos/chai (2).jpeg",
+          "/photos/chai (3).jpeg",
+          "/photos/chai (1).jpeg",
+          "/photos/chai (4).jpeg",
+          "/photos/chai (5).jpeg",
+          "/photos/chai (6).jpeg",
+          "/photos/chai (7).jpeg",
+          "/photos/chai (8).jpeg",
+          "/photos/chai (9).jpeg",
+          "/photos/chai (10).jpeg",
+          "/photos/chai (11).jpeg",
+          "/photos/chai (12).jpeg",
+          "/photos/chai (13).jpeg"
+        ]
+      },
+      "inspiration": "Chai brings people together. It represents calmness, positivity, togetherness and peace - all of which are emotions that I wish to evoke through my design."
+    },
+    {
+      "id": 7,
+      "title": "BELONG",
+      "category": "",
+      "description": "The eternal connection between Human and Nature.",
+      "tags": [
+        "Balance",
+        "Connection",
+        "Unity"
+      ],
+      "moodBoard": {
+        "text": "Belong celebrates the deep connection between human being and the natural world. Inspired by natural elements like flowers, foliages, animals, buds, branches etc. where each piece reflects the harmony and interdependence of life on earth. Blending traditional embroidery techniques with interesting design compilations, the collection conveys a powerful message of sustainability and the need of protecting nature around us.",
+        "images": [
+          "/photos/bel.png",
+          "/photos/bel (2).jpeg",
+          "/photos/bel (3).jpeg",
+          "/photos/bel (1).jpeg",
+          "/photos/bel (4).jpeg",
+          "/photos/bel (5).jpeg",
+          "/photos/bel (6).jpeg"
+        ]
+      },
+      "inspiration": "Chanakya School of Craft’s exhibit at Indian Art Fair 2024."
+    },
+    {
+      "id": 8,
+      "title": "RAFOO-E-YAADEIN S/S 27",
+      "category": "",
+      "description": "Mending of memories",
+      "tags": [
+        "Stories",
+        "Memoirs",
+        "Remembrance "
+      ],
+      "moodBoard": {
+        "text": "A collection of embroidery swatches based on the fading art of Rafugari, which means mending torn fabrics with stitches so fine, almost invisible. The collection will also carry a sense of remembrance and memories, whether of a person, place, or even a small moment that once meant everything. It is fascinating how remembrance is deeply personal, yet something we all share universally. This collection explores the beauty of imperfection, the enduring power of memory, and the universal language of nostalgia, all through the lens of this delicate craft.",
+        "images": [
+          "/photos/rafu.jpeg",
+          "/photos/rafu (1).jpeg",
+          "/photos/rafu (2).jpeg",
+          "/photos/rafu (3).jpeg",
+          "/photos/rafu (4).jpeg",
+          "/photos/rafu (5).jpeg",
+          "/photos/rafu (6).jpeg",
+          "/photos/rafu (7).jpeg",
+          "/photos/rafu (8).jpeg"
+        ]
+      },
+      "inspiration": "The exquisite and fading art of Rafugari, the meticulous mending of torn fabrics with nearly invisible stitches, serves as a powerful metaphor for the human experience of healing and remembrance."
+    },
+    {
+      "id": 9,
+      "title": "BENAAM BAAGH A/W 26",
+      "category": "",
+      "description": "The Nameless Garden",
+      "tags": [
+        "Asymmetry",
+        "Duality",
+        "Emotion"
+      ],
+      "moodBoard": {
+        "text": "Benaam Baagh delves into the nuanced duality of modern masculinity—where strength and vulnerability coexist. Inspired by architectural floral motifs overtaken by wild, untamed weeds, it reflects the contrast between man-made perfection and the raw force of nature. Like ivy breaking through stone, it symbolizes how emotion and tenderness can emerge from even the most composed exteriors. The collection captures the quiet beauty in brokenness, the elegance in disorder, and the deeply human truth revealed when structure begins to soften.",
+        "images": [
+          "/photos/benam.jpeg",
+          "/photos/benam (2).jpeg",
+          "/photos/benam (3).jpeg",
+          "/photos/benam (1).jpeg",
+          "/photos/benam (4).jpeg",
+          "/photos/benam (5).jpeg",
+          "/photos/benam (6).jpeg",
+          "/photos/benam (7).jpeg",
+          "/photos/benam (8).jpeg",
+          "/photos/benam (9).jpeg",
+          "/photos/benam (10).jpeg",
+          "/photos/benam (11).jpeg",
+          "/photos/benam (12).jpeg",
+          "/photos/benam (13).jpeg",
+          "/photos/benam (14).jpeg",
+          "/photos/benam (15).jpeg",
+          "/photos/benam (16).jpeg",
+          "/photos/benam (17).jpeg",
+          "/photos/benam (18).jpeg",
+          "/photos/benam (19).jpeg",
+          "/photos/benam (20).jpeg",
+          "/photos/benam (21).jpeg"
+        ]
+      },
+      "inspiration": "Duality of Masculinity."
+    }
+  ],
+  "experience": [
+  {
+    "year": "2019-2020",
+    "title": "Junior Designer",
+    "organization": "ANUSHNA by Nandini",
+    "description": "Worked as an Illustrator and Stylist, designing and developing prints, motifs, and concepts for women's apparel. Explored natural Shibori dyeing techniques, Batik, and Block printing for the 'Kochuripana' collection. The collection was featured in the blockbuster movie 'Ekannoborti'."
+  },
+  {
+    "year": "2020-2021",
+    "title": "Student Ambassador",
+    "organization": "DesignerShala by Shivangi Lahoty",
+    "description": "Interned with DesignerShala, building and managing content to drive traffic and engagement. Contributed blogs, articles, design insights, reviews, and testimonials for aspiring design enthusiasts, helping grow the social media following to 30K."
+  },
+  {
+    "year": "2022-2026",
+    "title": "Fashion Design Student",
+    "organization": "NIFT (National Institute of Fashion Technology), Bhubaneswar",
+    "description": "Pursued a Bachelor's degree in Fashion Design, exploring fashion illustration, textile crafts, garment construction, contemporary design, and sustainable fashion practices."
+  },
+  {
+    "year": "2023-2025",
+    "title": "President – Ethics and Social Service Club",
+    "organization": "NIFT Bhubaneswar",
+    "description": "Led initiatives focused on community engagement and social responsibility. Applied leadership, communication, and critical-thinking skills to organize sessions, meetings, drives, and camps, with the goal of creating a positive social impact."
+  },
+  {
+    "year": "2025 – Summer Internship",
+    "title": "Junior Designer",
+    "organization": "House of Poshaki",
+    "description": "Created concept, colour, and fabric stories; explored silhouettes, motifs, and embroidery placements; and assisted with sampling and garment finishing. Designed and developed UMA, a bestselling festive collection."
+  },
+  {
+    "year": "2026 – Graduation Project",
+    "title": "Junior Designer",
+    "organization": "Indian Summer Atelier",
+    "description": "Researched Indian textiles, traditional crafts, and seasonal market trends. Aligned design research and creative concepts with the brand's aesthetic to develop PEHCHAAN, a heartfelt collection celebrating identity, heritage, and craftsmanship."
+  },
+  {
+    "year": "2026",
+    "title": "NIFT Joint Convocation",
+    "organization": "National Institute of Fashion Technology",
+    "description": "Graduated at NIFT's historic joint convocation, where over 4,000 graduates came together under one roof. The ceremony was addressed by the Honourable President of India and the Union Minister of Textiles."
+  }
+]
+}
