@@ -266,10 +266,7 @@ export function AboutSection() {
 
               {/* Paragraph 2 */}
               <p className="text-muted-foreground text-base sm:text-lg leading-relaxed">
-                Currently pursuing my degree at NIFT, I specialize in
-                sustainable fashion practices, hand-embroidery techniques,
-                and innovative pattern-making that celebrates both artistry
-                and functionality.
+                
               </p>
             </div>
           </motion.div>

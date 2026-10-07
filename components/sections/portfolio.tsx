@@ -1432,7 +1432,7 @@ export function PortfolioSection() {
                               "
                             />
 
-                            <div
+                            {selectedProject.id !== 3 && <div
                               className="
                                 absolute
                                 inset-0
@@ -1445,21 +1445,19 @@ export function PortfolioSection() {
                                 duration-500
                                 group-hover:opacity-100
                               "
-                            />
+                            />}
 
-                            <div className="absolute left-3 top-3 rounded-full border border-white/15 bg-black/50 px-3 py-2 text-[9px] font-medium uppercase tracking-[0.2em] text-white/80 backdrop-blur-md">
-                              {selectedProject.id === 3
-                                ? `Garment ${String(index + 1).padStart(2, "0")}`
-                                : String(index + 1).padStart(2, "0")}
-                            </div>
+                            {selectedProject.id !== 3 && <div className="absolute left-3 top-3 rounded-full border border-white/15 bg-black/50 px-3 py-2 text-[9px] font-medium uppercase tracking-[0.2em] text-white/80 backdrop-blur-md">
+                              {String(index + 1).padStart(2, "0")}
+                            </div>}
 
-                            <motion.div
+                            {selectedProject.id !== 3 && <motion.div
                               initial={{ opacity: 0, scale: 0.7 }}
                               whileHover={{ opacity: 1, scale: 1 }}
                               className="absolute bottom-3 right-3 rounded-full border border-white/15 bg-black/50 px-3 py-1.5 text-[9px] uppercase tracking-[0.2em] text-white/80 backdrop-blur-md"
                             >
                               Detail
-                            </motion.div>
+                            </motion.div>}
                           </div>
                         </motion.div>
                       ))
