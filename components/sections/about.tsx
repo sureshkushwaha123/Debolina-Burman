@@ -266,7 +266,8 @@ export function AboutSection() {
 
               {/* Paragraph 2 */}
               <p className="text-muted-foreground text-base sm:text-lg leading-relaxed">
-                
+                As a NIFT Alumna, I specialise in sustainable fashion practises, experimenting with traditional textiles and building meaningful concepts and stories which led me to the path of Creative Direction. 
+Coming out from one of the prestigious institutes of Fashion, I carry pride and proficiency in the work that I do, to let my work speak for me!
               </p>
             </div>
           </motion.div>
