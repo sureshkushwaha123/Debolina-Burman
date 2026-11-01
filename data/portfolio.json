@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": 1,
-      "title": "PEHCHAN",
+      "title": "PEHCHAAN",
       "category": "GRADUATION PROJECT ",
       "description": "Festive Wear S/S 26",
       "tags": [
@@ -547,7 +547,7 @@
         "Connection",
         "Unity"
       ],
-      "coverImage": "/photos/bel (2).jpeg",
+      "coverImage": "/photos/bel.png",
       "moodBoard": {
         "text": "Belong celebrates the deep connection between human being and the natural world. Inspired by natural elements like flowers, foliages, animals, buds, branches etc. where each piece reflects the harmony and interdependence of life on earth. Blending traditional embroidery techniques with interesting design compilations, the collection conveys a powerful message of sustainability and the need of protecting nature around us.",
         "images": []
@@ -555,6 +555,7 @@
       "inspiration": "Chanakya School of Craft’s exhibit at Indian Art Fair 2024.",
       "collectionGallery": {
         "images": [
+          "/photos/bel.png",
           "/photos/bel (2).jpeg",
           "/photos/bel (3).jpeg",
           "/photos/bel (1).jpeg",
@@ -671,7 +672,7 @@
     "description": "Graduated at NIFT's historic joint convocation, where over 4,000 graduates came together under one roof. The ceremony was addressed by the Honourable President of India and the Union Minister of Textiles."
   },
   {
-    "year": "2026 – Graduation Project",
+    "year": "2026 - Graduation project + PPO",
     "title": "Junior Designer",
     "organization": "Indian Summer Atelier",
     "description": "Researched Indian textiles, traditional crafts, and seasonal market trends. Aligned design research and creative concepts with the brand's aesthetic to develop PEHCHAAN, a heartfelt collection celebrating identity, heritage, and craftsmanship."

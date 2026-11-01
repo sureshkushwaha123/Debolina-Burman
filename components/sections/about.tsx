@@ -253,7 +253,7 @@ export function AboutSection() {
 
               {/* Paragraph 1 */}
               <p className="text-muted-foreground text-base sm:text-lg leading-relaxed mb-5">
-                Hello! I&apos;m Debolina, an aspiring Fashion Designer who&apos;s
+                Hello! I&apos;m Debolina, a skilled fashion designer who&apos;s
                 highly inclined towards Fashion and Aesthetics. One who
                 believes in Kindness! Every design of mine has a reflection
                 of stories which moulded me the way I am. How I see, feel,
