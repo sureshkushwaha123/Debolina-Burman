@@ -406,8 +406,19 @@
         "Minimal",
         "Handcrafted"
       ],
+      "coverImage": "/photos/eka.PNG",
       "moodBoard": {
         "text": "These pieces are woven memoir — a love letter spun in the dialects of Odisha’s Ikkat and Bengal’s Jamdani. As a Bengali woman whose heart once beat with Odisha’s rhythm, my story of unfinished love takes form in every thread, in every motif. This is not just about fabric — it’s about what lingers: memories that dye deep, patterns that never repeat, and weaves that hold what words could not. In every piece, you will find a reunion — of two textiles, two cultures, and a heart that never left.",
+        "images": [
+          "/photos/eka-moodboard1.jpeg",
+          "/photos/eka-moodboard2.jpeg",
+          "/photos/eka-moodboard3.jpeg",
+          "/photos/eka-moodboard4.jpeg",
+          "/photos/eka-moodboard5.jpeg"
+        ]
+      },
+      "inspiration": "Tribute to traditional textiles/handlooms, Ikkat and Jamdani.",
+      "collectionGallery": {
         "images": [
           "/photos/eka.PNG",
           "/photos/eka (2).jpeg",
@@ -434,15 +445,9 @@
           "/photos/eka (23).jpeg",
           "/photos/eka (24).jpeg",
           "/photos/eka (25).jpeg",
-          "/photos/eka (26).jpeg",
-          "/photos/eka (27).jpeg",
-          "/photos/eka (28).jpeg",
-          "/photos/eka (29).jpeg",
-          "/photos/eka (30).jpeg",
-          "/photos/eka (31).jpeg"
+          "/photos/eka (26).jpeg"
         ]
-      },
-      "inspiration": "Tribute to traditional textiles/handlooms, Ikkat and Jamdani."
+      }
     },
     {
       "id": 5,
@@ -455,8 +460,26 @@
         "Christmas",
         "Winters "
       ],
+      "coverImage": "/photos/mis.jpg",
       "moodBoard": {
         "text": "The Mistletoe Magic Collection is a celebration of the magical charm of winter and the festive spirit of Christmas. Drawing inspiration from frosty landscapes, cozy traditions, and the radiant glow of holiday cheer, this collection merges seasonal nostalgia with contemporary elegance. It aims to evoke feelings of wonder and comfort, blending luxurious textures, rich colours, and playful yet sophisticated designs that resonate with the festive season.",
+        "images": [
+          "/photos/mis-moodboard1.jpeg",
+          "/photos/mis-moodboard2.jpeg",
+          "/photos/mis-moodboard3.jpeg",
+          "/photos/mis-moodboard4.jpeg",
+          "/photos/mis-moodboard5.jpeg",
+          "/photos/mis-moodboard6.jpeg",
+          "/photos/mis-moodboard7.jpeg",
+          "/photos/mis-moodboard8.jpeg",
+          "/photos/mis-moodboard9.jpeg",
+          "/photos/mis-moodboard10.jpeg",
+          "/photos/mis-moodboard11.jpeg",
+          "/photos/mis-moodboard12.jpeg"
+        ]
+      },
+      "inspiration": "Through enchantment of s snowy Christmas wonderland, I’ll highlight the contrast between winter’s frosty exterior and the warm, joyful heart of the holiday season.",
+      "collectionGallery": {
         "images": [
           "/photos/mis.jpg",
           "/photos/mis (1).jpeg",
@@ -467,23 +490,9 @@
           "/photos/mis (6).jpeg",
           "/photos/mis (7).jpeg",
           "/photos/mis (8).jpeg",
-          "/photos/mis (9).jpeg",
-          "/photos/mis (10).jpeg",
-          "/photos/mis (11).jpeg",
-          "/photos/mis (12).jpeg",
-          "/photos/mis (13).jpeg",
-          "/photos/mis (14).jpeg",
-          "/photos/mis (15).jpeg",
-          "/photos/mis (16).jpeg",
-          "/photos/mis (17).jpeg",
-          "/photos/mis (18).jpeg",
-          "/photos/mis (19).jpeg",
-          "/photos/mis (20).jpeg",
-          "/photos/mis (21).jpeg",
-          "/photos/mis (22).jpeg"
+          "/photos/mis (9).jpeg"
         ]
-      },
-      "inspiration": "Through enchantment of s snowy Christmas wonderland, I’ll highlight the contrast between winter’s frosty exterior and the warm, joyful heart of the holiday season."
+      }
     },
     {
       "id": 6,
@@ -495,8 +504,22 @@
     "Resort wear",
     "Minimal embroidery"
   ],
+      "coverImage": "/photos/chai.PNG",
       "moodBoard": {
         "text": "The concept of the collection Chaai is to incorporate the elements of Chaai into building an outfit predominantly worn during breezy resort stays. Be it the warm vapor that rises from a kulhad of Chaai or just the intricate patterns made on that kulhad or maybe the bubbles formed upon a hot cup of chaai. All of these are like an inspiration for me to derive a design collection that would not only have the essence of chai but also the flavourful elements present in the making of Chaai. All together, I hope to make this vision of mine come alive and convey the emotion we feel by taking the first sip of chaai.",
+        "images": [
+          "/photos/chai-moodboard1.jpeg",
+          "/photos/chai-moodboard2.jpeg",
+          "/photos/chai-moodboard3.jpeg",
+          "/photos/chai-moodboard4.jpeg",
+          "/photos/chai-moodboard5.jpeg",
+          "/photos/chai-moodboard6.jpeg",
+          "/photos/chai-moodboard7.jpeg",
+          "/photos/chai-moodboard8.jpeg"
+        ]
+      },
+      "inspiration": "Chai brings people together. It represents calmness, positivity, togetherness and peace - all of which are emotions that I wish to evoke through my design.",
+      "collectionGallery": {
         "images": [
           "/photos/chai.PNG",
           "/photos/chai (2).jpeg",
@@ -510,19 +533,9 @@
           "/photos/chai (9).jpeg",
           "/photos/chai (10).jpeg",
           "/photos/chai (11).jpeg",
-          "/photos/chai (12).jpeg",
-          "/photos/chai (13).jpeg",
-          "/photos/chai (14).jpeg",
-          "/photos/chai (15).jpeg",
-          "/photos/chai (16).jpeg",
-          "/photos/chai (17).jpeg",
-          "/photos/chai (18).jpeg",
-          "/photos/chai (19).jpeg",
-          "/photos/chai (20).jpeg",
-          "/photos/chai (21).jpeg"
+          "/photos/chai (12).jpeg"
         ]
-      },
-      "inspiration": "Chai brings people together. It represents calmness, positivity, togetherness and peace - all of which are emotions that I wish to evoke through my design."
+      }
     },
     {
       "id": 7,
@@ -534,6 +547,7 @@
         "Connection",
         "Unity"
       ],
+      "coverImage": "/photos/bel (2).jpeg",
       "moodBoard": {
         "text": "Belong celebrates the deep connection between human being and the natural world. Inspired by natural elements like flowers, foliages, animals, buds, branches etc. where each piece reflects the harmony and interdependence of life on earth. Blending traditional embroidery techniques with interesting design compilations, the collection conveys a powerful message of sustainability and the need of protecting nature around us.",
         "images": [
@@ -546,7 +560,17 @@
           "/photos/bel (6).jpeg"
         ]
       },
-      "inspiration": "Chanakya School of Craft’s exhibit at Indian Art Fair 2024."
+      "inspiration": "Chanakya School of Craft’s exhibit at Indian Art Fair 2024.",
+      "collectionGallery": {
+        "images": [
+          "/photos/bel (2).jpeg",
+          "/photos/bel (3).jpeg",
+          "/photos/bel (1).jpeg",
+          "/photos/bel (4).jpeg",
+          "/photos/bel (5).jpeg",
+          "/photos/bel (6).jpeg"
+        ]
+      }
     },
     {
       "id": 8,
@@ -558,8 +582,23 @@
         "Memoirs",
         "Remembrance "
       ],
+      "coverImage": "/photos/rafu.jpeg",
       "moodBoard": {
         "text": "A collection of embroidery swatches based on the fading art of Rafugari, which means mending torn fabrics with stitches so fine, almost invisible. The collection will also carry a sense of remembrance and memories, whether of a person, place, or even a small moment that once meant everything. It is fascinating how remembrance is deeply personal, yet something we all share universally. This collection explores the beauty of imperfection, the enduring power of memory, and the universal language of nostalgia, all through the lens of this delicate craft.",
+        "images": [
+          "/photos/rafu-moodboard1.jpeg",
+          "/photos/rafu-moodboard2.jpeg",
+          "/photos/rafu-moodboard3.jpeg",
+          "/photos/rafu-moodboard4.jpeg",
+          "/photos/rafu-moodboard5.jpeg",
+          "/photos/rafu-moodboard6.jpeg",
+          "/photos/rafu-moodboard7.jpeg",
+          "/photos/rafu-moodboard8.jpeg",
+          "/photos/rafu-moodboard9.jpeg"
+        ]
+      },
+      "inspiration": "The exquisite and fading art of Rafugari, the meticulous mending of torn fabrics with nearly invisible stitches, serves as a powerful metaphor for the human experience of healing and remembrance.",
+      "collectionGallery": {
         "images": [
           "/photos/rafu.jpeg",
           "/photos/rafu (1).jpeg",
@@ -569,19 +608,9 @@
           "/photos/rafu (5).jpeg",
           "/photos/rafu (6).jpeg",
           "/photos/rafu (7).jpeg",
-          "/photos/rafu (8).jpeg",
-          "/photos/rafu (9).jpeg",
-          "/photos/rafu (10).jpeg",
-          "/photos/rafu (11).jpeg",
-          "/photos/rafu (12).jpeg",
-          "/photos/rafu (13).jpeg",
-          "/photos/rafu (14).jpeg",
-          "/photos/rafu (15).jpeg",
-          "/photos/rafu (16).jpeg",
-          "/photos/rafu (17).jpeg"
+          "/photos/rafu (8).jpeg"
         ]
-      },
-      "inspiration": "The exquisite and fading art of Rafugari, the meticulous mending of torn fabrics with nearly invisible stitches, serves as a powerful metaphor for the human experience of healing and remembrance."
+      }
     },
     {
       "id": 9,
@@ -593,8 +622,28 @@
         "Duality",
         "Emotion"
       ],
+      "coverImage": "/photos/benam.jpeg",
       "moodBoard": {
         "text": "Benaam Baagh delves into the nuanced duality of modern masculinity—where strength and vulnerability coexist. Inspired by architectural floral motifs overtaken by wild, untamed weeds, it reflects the contrast between man-made perfection and the raw force of nature. Like ivy breaking through stone, it symbolizes how emotion and tenderness can emerge from even the most composed exteriors. The collection captures the quiet beauty in brokenness, the elegance in disorder, and the deeply human truth revealed when structure begins to soften.",
+        "images": [
+          "/photos/benam-moodboard1.jpeg",
+          "/photos/benam-moodboard2.jpeg",
+          "/photos/benam-moodboard3.jpeg",
+          "/photos/benam-moodboard4.jpeg",
+          "/photos/benam-moodboard5.jpeg",
+          "/photos/benam-moodboard6.jpeg",
+          "/photos/benam-moodboard7.jpeg",
+          "/photos/benam-moodboard8.jpeg",
+          "/photos/benam-moodboard9.jpeg",
+          "/photos/benam-moodboard10.jpeg",
+          "/photos/benam-moodboard11.jpeg",
+          "/photos/benam-moodboard12.jpeg",
+          "/photos/benam-moodboard13.jpeg",
+          "/photos/benam-moodboard14.jpeg"
+        ]
+      },
+      "inspiration": "Duality of Masculinity.",
+      "collectionGallery": {
         "images": [
           "/photos/benam.jpeg",
           "/photos/benam (2).jpeg",
@@ -617,24 +666,9 @@
           "/photos/benam (18).jpeg",
           "/photos/benam (19).jpeg",
           "/photos/benam (20).jpeg",
-          "/photos/benam (21).jpeg",
-          "/photos/benam (22).jpeg",
-          "/photos/benam (23).jpeg",
-          "/photos/benam (24).jpeg",
-          "/photos/benam (25).jpeg",
-          "/photos/benam (26).jpeg",
-          "/photos/benam (27).jpeg",
-          "/photos/benam (28).jpeg",
-          "/photos/benam (29).jpeg",
-          "/photos/benam (30).jpeg",
-          "/photos/benam (31).jpeg",
-          "/photos/benam (32).jpeg",
-          "/photos/benam (33).jpeg",
-          "/photos/benam (34).jpeg",
-          "/photos/benam (35).jpeg"
+          "/photos/benam (21).jpeg"
         ]
-      },
-      "inspiration": "Duality of Masculinity."
+      }
     }
   ],
   "experience": [

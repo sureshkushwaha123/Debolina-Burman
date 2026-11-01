@@ -42,6 +42,9 @@ type Project = {
   coverImage?: string;
 
   imageCollections?: ImageCollection[];
+  collectionGallery?: {
+    images: string[];
+  };
 
   moodBoard: {
     text: string;
@@ -158,6 +161,9 @@ export function PortfolioSection() {
       images: [image],
     }));
   };
+
+  const getCollectionGalleryImages = (project: Project) =>
+    project.collectionGallery?.images ?? project.moodBoard.images.slice(1);
 
   /* =========================================================
      OPEN PROJECT
@@ -1365,7 +1371,7 @@ export function PortfolioSection() {
                       ? getImageCollections(selectedProject).flatMap(
                           (collection) => collection.images
                         )
-                      : selectedProject.moodBoard.images.slice(1)
+                      : getCollectionGalleryImages(selectedProject)
                     )
                       .map((image, index) => (
                         <motion.div
